@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-//imported inquirer from node_module folder
+//imported inquirer from node_module folder.
 import inquirer from "inquirer";
 //declaring a variable to store currencies and making usd as base currency
 const currency = {
